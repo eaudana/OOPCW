@@ -5,7 +5,7 @@ Description:
 
 This project aims to develop a comprehensive system for managing products using both a console-based interface for administrative tasks and a graphical user interface (GUI) for user interactions.
 
-Console Syste:
+Console System:
 
 The console system provides functionalities for administrators to perform various tasks related to product management. These tasks include adding new products, deleting existing products, printing the list of products, and saving the product data.
 
